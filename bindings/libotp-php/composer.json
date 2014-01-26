@@ -1,0 +1,17 @@
+{
+    "name": "luissantos/libotp-php",
+    "description": "PHP OTP lib",
+    "authors": [
+        {
+            "name": "Luis Santos",
+            "email": "luis@luissantos.pt"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-0": { "PHPOTP\\": "src/" }
+    }
+
+}
